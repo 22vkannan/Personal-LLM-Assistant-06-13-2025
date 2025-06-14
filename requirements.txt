@@ -1,0 +1,11 @@
+openai
+chromadb
+langchain
+sentence-transformers
+python-dotenv
+flask
+whisper
+pydub
+icalendar
+networkx
+matplotlib
